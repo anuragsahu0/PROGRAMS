@@ -1,4 +1,4 @@
-# Tarun CPP - B.Tech 1st Year C++ Programs
+# TT Programs - B.Tech 2st Year C++ Programs
 
 This repository contains basic and foundational C++ programs covering standard first-year engineering topics:
 
