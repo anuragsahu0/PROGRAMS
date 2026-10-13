@@ -1,2 +1,18 @@
+# macOS system files
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & IDE settings
 .vscode/
+.idea/
+
+# C++ build artifacts & executables
+*.out
+*.exe
+*.o
+*.obj
+*.dSYM/
+
+# Java build artifacts
+*.class
